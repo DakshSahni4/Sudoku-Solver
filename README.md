@@ -73,10 +73,4 @@ Refer to the images below for sample input and output:
 ![Input](input.PNG)
 ![Output](output.PNG)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README further to suit your needs!
